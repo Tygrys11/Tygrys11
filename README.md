@@ -2,7 +2,7 @@
 <h4 align="left">My real name is Justyna, I'm 16 years old and I want to become frontend developer in the future. Interested in animation and creating websites. I like to learn new languages and effects.</h4>
 
 
-
+<p>fsdfsdfsdfsf</p>
 
 <h3 align="left">Stuff I know:</h3>
 <p align="left"> 
@@ -33,3 +33,7 @@
     <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> 
     <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
 </p>
+
+<p><imglay="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tygrys11&show_icons=true&theme=dark&title_color=00e6d6&text_color=ffffff&bg_color=2a003d&locale=en&layout=compact " alt="tygrys11" /></p>
+
+<p> <imglay="center" src="https://github-readme-stats.vercel.app/api?username=tygrys11&show_icons=true&theme=tokyonight&title_color=00b5b8&text_color=ffffff&bg_color=2b002e&locale=en" alt="tygrys11" /></p>
