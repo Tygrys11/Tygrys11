@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Lira</h1>
 <h4 align="left">My real name is Justyna, I'm 16 years old and I want to become frontend developer in the future. Interested in animation and creating websites. I like to learn new languages and effects.</h4>
 
-//Followers
+
 
 
 <h3 align="left">Stuff I know:</h3>
