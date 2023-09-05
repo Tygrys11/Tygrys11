@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Lira</h1>
-<h3 align="center">My real name is Justyna, I'm 16 years old and I want to become frontend developer in the future. Interested in animation and creating websites. I like to learn new languages and effects.</h3>
+<h3 align="left">My real name is Justyna, I'm 16 years old and I want to become frontend developer in the future. Interested in animation and creating websites. I like to learn new languages and effects.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tygrys11&label=Followers&color=9900ff&style=flat" alt="tygrys11" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tygrys11&label=Followers&color=9900ff&style=flat-square" alt="tygrys11" /> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
 <h3 align="left">Stuff I know:</h3>
 <p align="left"> 
@@ -30,7 +27,12 @@
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
 </p>
 
+<h3 align="left">I'm learning some software:</h3>
+<p align="left">
+  <p align="left"> 
+    <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> 
+    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+</p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tygrys11&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=5e008a&locale=en&layout=compact" alt="tygrys11" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tygrys11&show_icons=true&locale=en" alt="tygrys11" /></p>
