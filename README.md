@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lira</h1>
-<h3 align="left">My real name is Justyna, I'm 16 years old and I want to become frontend developer in the future. Interested in animation and creating websites. I like to learn new languages and effects.</h3>
+<h4 align="left">My real name is Justyna, I'm 16 years old and I want to become frontend developer in the future. Interested in animation and creating websites. I like to learn new languages and effects.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tygrys11&label=Followers&color=9900ff&style=flat-square" alt="tygrys11" /> </p>
 
