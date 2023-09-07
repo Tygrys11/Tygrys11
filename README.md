@@ -39,8 +39,5 @@
 <h2 align="left">Github Stats</h2>
 <p align="left">  
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=tygrys11&show_icons=true&theme=tokyonight&title_color=00b5b8&text_color=ffffff&bg_color=2b002e&locale=en" alt="tygrys11" />
-
-<br>
-
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tygrys11&show_icons=true&theme=dark&title_color=00b5b8&text_color=ffffff&bg_color=2b002e&locale=en&layout=compact" alt="tygrys11" />
 </p>
