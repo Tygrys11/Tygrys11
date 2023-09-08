@@ -1,6 +1,11 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?Font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=6000&lines=Hi+👋,+I'm+Lira!;">
+  <img src="https://readme-typing-svg.herokuapp.com/?Font=Righteous&size=35&center=true&vCenter=true&color=5502b5&font=Georgia&width=500&height=70&duration=6000&lines=Hi+👋,+I'm+Lira!;">
 </h1>
+
+<p align="left">
+  <a href="https://www.github.com/Tygrys11" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/github/followers/Tygrys11?logo=github&style=for-the-badge&color=5502b5&labelColor=0f172a" /></a>
+</p>
 
 <h4 align="left">My real name is Justyna, I'm 16 years old and I want to become frontend developer in the future. Interested in animation and creating websites. I like to learn new languages and effects.</h4>
 
@@ -30,7 +35,7 @@
 </p>
 
 <h2 align="left">I'm learning some softwares 📽</h2>
-<p align="left">
+<p align="center">
   
 [![I'm learning some softwares](https://skillicons.dev/icons?i=blender,pr,ps&theme=dark)](https://skillicons.dev)
 
@@ -39,7 +44,14 @@
 <hr>
 
 <h2 align="left">Github Stats</h2>
-<p align="left">  
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=tygrys11&show_icons=true&theme=tokyonight&title_color=00b5b8&text_color=ffffff&bg_color=2b002e&locale=en" alt="tygrys11" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tygrys11&show_icons=true&theme=dark&title_color=00b5b8&text_color=ffffff&bg_color=2b002e&locale=en&layout=compact" alt="tygrys11" />
-</p>
+<div align="center">
+       
+<a href="https://github.com/Tygrys11">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Tygrys11&theme=radical" />
+</a>
+
+<a href="https://github.com/Tygrys11">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tygrys11&layout=compact&langs_count=8&card_width=320&theme=radical" />
+</a>
+
+</div>
