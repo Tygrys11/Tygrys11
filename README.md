@@ -45,13 +45,9 @@
 
 <h2 align="left">Github Stats</h2>
 <div align="center">
-       
-<a href="https://github.com/Tygrys11">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Tygrys11&theme=radical" />
-</a>
 
-<a href="https://github.com/Tygrys11">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tygrys11&layout=compact&langs_count=8&card_width=320&theme=radical" />
-</a>
+<a href="http://www.github.com/Tygrys11"><img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=Tygrys11&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="Lira's GitHub stats" /></a>
+
+<a href="https://github.com/Tygrys11"><img align="left" width="300" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tygrys11&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" /></a>
 
 </div>
