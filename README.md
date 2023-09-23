@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/github/followers/Tygrys11?logo=github&style=for-the-badge&color=5502b5&labelColor=0f172a" /></a>
 </p>
 
-<h4 align="left">My real name is Justyna, I'm 16 years old and I want to become frontend developer in the future. Interested in animation and creating websites. I like to learn new languages and effects.</h4>
+<p align="left">My real name is Justyna, I'm 16 years old and I want to become frontend developer in the future. Interested in animation and creating websites. I like to learn new languages and effects.</p>
 
 <hr>
 
