@@ -1,6 +1,6 @@
-<p align="center">
+<a align="center" href="https://github.com/Tygrys11/">
   <img src="assets/banner.png" alt="Banner" width="100%" />
-</p>
+</a>
 
 <!-- <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?Font=Righteous&size=35&center=true&vCenter=true&color=760000&font=Georgia&width=500&height=70&duration=6000&lines=🦉+Hi+👋,+I'm+Lira!+🦉;">
