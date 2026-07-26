@@ -1,18 +1,18 @@
-<!-- <div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=8&color=0:ff4db8,50:8b5cf6,100:ff4db8&section=header&reversal=true"/>
 
-</div> -->
+</div> 
 
 <a align="center" href="https://github.com/Tygrys11/">
   <img src="assets/banner.png" alt="Banner" width="100%" />
 </a>
 
-<!-- <div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=8&color=0:ff4db8,50:8b5cf6,100:ff4db8&section=header&reversal=true"/>
 
-</div> -->
+</div> 
 
 <br><br>
 
@@ -77,6 +77,21 @@
 <br>
 <img src="https://img.shields.io/badge/Git-161B22?style=for-the-badge&logo=git&logoColor=F05032&color=161B22"/>
 <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=ffffff&color=161B22"/>
+</p>
+
+<br><br>
+
+<h2 align="center">
+  <img src="https://api.iconify.design/lucide:brain.svg?color=%23D946EF" width="25"/>
+  Want to Learn
+  <img src="https://api.iconify.design/lucide:brain.svg?color=%23D946EF" width="25"/>
+</h2>
+<p align="center">
+<img src="https://img.shields.io/badge/Next.js-161B22?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/TailwindCSS-161B22?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4"/>
+<img src="https://img.shields.io/badge/Three.js-161B22?style=for-the-badge&logo=threedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-161B22?style=for-the-badge&logo=node.js&logoColor=5FA04E"/>
+
 </p>
 
 <br><br>
