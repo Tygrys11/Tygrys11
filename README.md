@@ -4,10 +4,76 @@
 
 <hr>
 
-<p align="left">
-  <a href="https://www.github.com/Tygrys11" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/github/followers/Tygrys11?logo=github&style=for-the-badge&color=2D094C&labelColor=0f172a" /></a>
+<div align="left">
+
+<a href="https://github.com/Tygrys11">
+<img src="https://img.shields.io/github/followers/Tygrys11?style=for-the-badge&logo=github&logoColor=D946EF&label=Followers&labelColor=black&color=D946EF"/>
+</a>
+
+</div>
+
+<h2 align="center">
+  <img src="https://api.iconify.design/lucide:code-xml.svg?color=%23D946EF" width="25" />
+  Tech Stack
+  <img src="https://api.iconify.design/lucide:code-xml.svg?color=%23D946EF" width="25" />
+</h2>
+
+<p align="center">
+<img src="https://img.shields.io/badge/HTML5-161B22?style=for-the-badge&logo=html5&logoColor=E34F26&color=161B22"/>
+<img src="https://img.shields.io/badge/CSS3-161B22?style=for-the-badge&logo=css3&logoColor=1572B6&color=161B22"/>
+<img src="https://img.shields.io/badge/JavaScript-161B22?style=for-the-badge&logo=javascript&logoColor=F7DF1E&color=161B22"/>
+<img src="https://img.shields.io/badge/TypeScript-161B22?style=for-the-badge&logo=typescript&logoColor=3178C6&color=161B22"/>
+<img src="https://img.shields.io/badge/React-161B22?style=for-the-badge&logo=react&logoColor=61DAFB&color=161B22"/>
+<img src="https://img.shields.io/badge/Vue.js-161B22?style=for-the-badge&logo=vuedotjs&logoColor=42B883&color=161B22"/>
+<img src="https://img.shields.io/badge/Sass-161B22?style=for-the-badge&logo=sass&logoColor=CC6699&color=161B22"/>
+<br>
+<img src="https://img.shields.io/badge/Git-161B22?style=for-the-badge&logo=git&logoColor=F05032&color=161B22"/>
+<img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=ffffff&color=161B22"/>
+<img src="https://img.shields.io/badge/MySQL-161B22?style=for-the-badge&logo=mysql&logoColor=4479A1&color=161B22"/>
+<img src="https://img.shields.io/badge/PHP-161B22?style=for-the-badge&logo=php&logoColor=777BB4&color=161B22"/>
+<img src="https://img.shields.io/badge/C++-161B22?style=for-the-badge&logo=cplusplus&logoColor=00599C&color=161B22"/>
+<img src="https://img.shields.io/badge/Python-161B22?style=for-the-badge&logo=python&logoColor=FFD43B&color=161B22"/>
 </p>
+
+<!-- <table width="100%">
+<tr>
+
+<td width="50%" valign="top">
+
+### <img src="https://api.iconify.design/lucide:brain.svg?color=%23D946EF" width="22"/> Want to Learn
+
+<img src="https://img.shields.io/badge/Next.js-161B22?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/TailwindCSS-161B22?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4"/>
+
+<img src="https://img.shields.io/badge/Three.js-161B22?style=for-the-badge&logo=threedotjs&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Node.js-161B22?style=for-the-badge&logo=node.js&logoColor=5FA04E"/>
+
+</td>
+
+<td width="50%" valign="top">
+
+### <img src="https://api.iconify.design/lucide:graduation-cap.svg?color=%23D946EF" width="22"/> Currently Learning
+
+<img src="https://img.shields.io/badge/Blender-161B22?style=for-the-badge&logo=blender&logoColor=F5792A"/>
+
+<img src="https://img.shields.io/badge/Premiere%20Pro-161B22?style=for-the-badge&logo=adobepremierepro&logoColor=9999FF"/>
+
+<img src="https://img.shields.io/badge/Photoshop-161B22?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF"/>
+
+<img src="https://img.shields.io/badge/Figma-161B22?style=for-the-badge&logo=figma&logoColor=F24E1E"/>
+
+</td>
+
+</tr>
+</table> -->
+
+<!-- <p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=Tygrys11&theme=shades-of-purple&hide_border=true&background=0D1117&ring=BB86FC&fire=E879F9&currStreakLabel=FFFFFF"
+  />
+</p> -->
 
 <!-- <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?Font=Righteous&size=35&center=true&vCenter=true&color=760000&font=Georgia&width=500&height=70&duration=6000&lines=🦉+Hi+👋,+I'm+Lira!+🦉;">
