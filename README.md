@@ -2,14 +2,16 @@
   <img src="assets/banner.png" alt="Banner" width="100%" />
 </a>
 
-<!-- <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?Font=Righteous&size=35&center=true&vCenter=true&color=760000&font=Georgia&width=500&height=70&duration=6000&lines=🦉+Hi+👋,+I'm+Lira!+🦉;">
-</h1>
+<hr>
 
 <p align="left">
   <a href="https://www.github.com/Tygrys11" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/github/followers/Tygrys11?logo=github&style=for-the-badge&color=760000&labelColor=0f172a" /></a>
+    <img src="https://img.shields.io/github/followers/Tygrys11?logo=github&style=for-the-badge&color=2D094C&labelColor=0f172a" /></a>
 </p>
+
+<!-- <h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?Font=Righteous&size=35&center=true&vCenter=true&color=760000&font=Georgia&width=500&height=70&duration=6000&lines=🦉+Hi+👋,+I'm+Lira!+🦉;">
+</h1>
 
 <p align="left">My real name is Justyna, I'm 18 years old and I want to become frontend developer in the future. Interested in animation and creating websites. I like to learn new languages and effects.</p>
 
