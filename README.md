@@ -1,17 +1,36 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=8&color=0:ff4db8,50:8b5cf6,100:ff4db8&section=header&reversal=true"/>
+
+</div>
+
 <a align="center" href="https://github.com/Tygrys11/">
   <img src="assets/banner.png" alt="Banner" width="100%" />
 </a>
 
-<hr>
+<div align="center">
 
-<div align="left">
-
-<a href="https://github.com/Tygrys11">
-<img src="https://img.shields.io/github/followers/Tygrys11?style=for-the-badge&logo=github&logoColor=D946EF&label=Followers&labelColor=black&color=D946EF"/>
-</a>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=8&color=0:ff4db8,50:8b5cf6,100:ff4db8&section=header&reversal=true"/>
 
 </div>
 
+<br><br>
+
+<div align="center">
+
+<a href="https://github.com/Tygrys11">
+<img src="https://img.shields.io/github/followers/Tygrys11?style=for-the-badge&logo=github&logoColor=D946EF&label=Followers&labelColor=black&color=D946EF" width="250"/>
+</a>
+</div>
+
+<div align="center">
+
+<span style="color:#ff4db8;">✦</span>
+<span style="color:#ff4db8;">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span>
+<span style="color:#ff4db8;">✦</span>
+
+</div>
+<br>
 <!-- =-=-=-=-=-=-= -->
 
 <!-- =-=-=-=-=-=-= -->
