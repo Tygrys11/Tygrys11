@@ -33,6 +33,54 @@
 <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=ffffff&color=161B22"/>
 </p>
 
+<!--Cytat-->
+<div align="left">
+
+<tr>
+<td width="800">
+
+<div style="
+background: linear-gradient(135deg, #151020, #0b0b14);
+border: 1px solid #ff4db8;
+border-radius: 12px;
+padding: 18px 28px;
+box-shadow: 0 0 20px rgba(255,77,184,0.25);
+">
+
+<table>
+<tr>
+
+<td width="45">
+<img src="https://api.iconify.design/lucide:quote.svg?color=%23ff4db8" width="32">
+</td>
+
+<td align="left">
+
+<i style="color:#f5d8ea; font-size:16px;">
+First, solve the problem. Then, write the code.
+</i>
+
+<br>
+
+<span style="color:#9ca3af; font-size:13px;">
+— John Johnson
+</span>
+
+</td>
+
+<td align="right">
+<img src="https://api.iconify.design/lucide:sparkles.svg?color=%23ff4db8" width="22">
+</td>
+
+</tr>
+</table>
+
+</div>
+
+</td>
+</tr>
+
+</div>
 
 <!-- <table width="100%">
 <tr>
