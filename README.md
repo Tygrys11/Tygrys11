@@ -24,15 +24,9 @@
 <img src="https://img.shields.io/badge/JavaScript-161B22?style=for-the-badge&logo=javascript&logoColor=F7DF1E&color=161B22"/>
 <img src="https://img.shields.io/badge/TypeScript-161B22?style=for-the-badge&logo=typescript&logoColor=3178C6&color=161B22"/>
 <img src="https://img.shields.io/badge/React-161B22?style=for-the-badge&logo=react&logoColor=61DAFB&color=161B22"/>
-<img src="https://img.shields.io/badge/Vue.js-161B22?style=for-the-badge&logo=vuedotjs&logoColor=42B883&color=161B22"/>
-<img src="https://img.shields.io/badge/Sass-161B22?style=for-the-badge&logo=sass&logoColor=CC6699&color=161B22"/>
 <br>
 <img src="https://img.shields.io/badge/Git-161B22?style=for-the-badge&logo=git&logoColor=F05032&color=161B22"/>
 <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=ffffff&color=161B22"/>
-<img src="https://img.shields.io/badge/MySQL-161B22?style=for-the-badge&logo=mysql&logoColor=4479A1&color=161B22"/>
-<img src="https://img.shields.io/badge/PHP-161B22?style=for-the-badge&logo=php&logoColor=777BB4&color=161B22"/>
-<img src="https://img.shields.io/badge/C++-161B22?style=for-the-badge&logo=cplusplus&logoColor=00599C&color=161B22"/>
-<img src="https://img.shields.io/badge/Python-161B22?style=for-the-badge&logo=python&logoColor=FFD43B&color=161B22"/>
 </p>
 
 <!-- <table width="100%">
