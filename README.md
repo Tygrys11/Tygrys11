@@ -1,9 +1,9 @@
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=8&color=0:ff4db8,50:8b5cf6,100:ff4db8&section=header&reversal=true"/>
 
 </div> 
-<br>
+<br> -->
 
 <a align="center" href="https://github.com/Tygrys11/">
   <img src="assets/banner.png" alt="Banner" width="100%" />
