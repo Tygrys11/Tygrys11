@@ -1,4 +1,8 @@
-<h1 align="center">
+<p align="center">
+  <img src="assets/banner.png" alt="Banner" width="100%" />
+</p>
+
+<!-- <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?Font=Righteous&size=35&center=true&vCenter=true&color=760000&font=Georgia&width=500&height=70&duration=6000&lines=🦉+Hi+👋,+I'm+Lira!+🦉;">
 </h1>
 
@@ -50,4 +54,4 @@
 
 <a href="https://github.com/Tygrys11"><img align="left" width="300" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tygrys11&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" /></a>
 
-</div>
+</div> -->
