@@ -64,14 +64,37 @@
 </h2>
 
 <p align="center">
-<img src="https://img.shields.io/badge/HTML5-161B22?style=for-the-badge&logo=html5&logoColor=E34F26&color=161B22"/>
-<img src="https://img.shields.io/badge/CSS3-161B22?style=for-the-badge&logo=css3&logoColor=1572B6&color=161B22"/>
-<img src="https://img.shields.io/badge/JavaScript-161B22?style=for-the-badge&logo=javascript&logoColor=F7DF1E&color=161B22"/>
-<img src="https://img.shields.io/badge/TypeScript-161B22?style=for-the-badge&logo=typescript&logoColor=3178C6&color=161B22"/>
-<img src="https://img.shields.io/badge/React-161B22?style=for-the-badge&logo=react&logoColor=61DAFB&color=161B22"/>
+
+<img src="https://img.shields.io/badge/HTML5-161B22?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+<img src="https://img.shields.io/badge/CSS3-161B22?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+<img src="https://img.shields.io/badge/JavaScript-161B22?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/TypeScript-161B22?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
+<img src="https://img.shields.io/badge/React-161B22?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+
 <br>
-<img src="https://img.shields.io/badge/Git-161B22?style=for-the-badge&logo=git&logoColor=F05032&color=161B22"/>
-<img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=ffffff&color=161B22"/>
+
+<img src="https://img.shields.io/badge/Next.js-161B22?style=for-the-badge&logo=next.js&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-161B22?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4"/>
+<img src="https://img.shields.io/badge/Git-161B22?style=for-the-badge&logo=git&logoColor=F05032"/>
+<img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/VS_Code-161B22?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/>
+<img src="https://img.shields.io/badge/WordPress-161B22?style=for-the-badge&logo=wordpress&logoColor=21759B"/>
+
+</p>
+
+<br><br>
+
+<h2 align="center">
+  <img src="https://api.iconify.design/lucide:palette.svg?color=%23D946EF" width="25" />
+  Design Tools
+  <img src="https://api.iconify.design/lucide:palette.svg?color=%23D946EF" width="25" />
+</h2>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Figma-161B22?style=for-the-badge&logo=figma&logoColor=F24E1E"/>
+<img src="https://img.shields.io/badge/Adobe_Photoshop-161B22?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF"/>
+
 </p>
 
 <br><br>
@@ -82,8 +105,6 @@
   <img src="https://api.iconify.design/lucide:brain.svg?color=%23D946EF" width="25"/>
 </h2>
 <p align="center">
-<img src="https://img.shields.io/badge/Next.js-161B22?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/TailwindCSS-161B22?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4"/>
 <img src="https://img.shields.io/badge/Three.js-161B22?style=for-the-badge&logo=threedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-161B22?style=for-the-badge&logo=node.js&logoColor=5FA04E"/>
 
