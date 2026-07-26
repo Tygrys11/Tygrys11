@@ -33,8 +33,20 @@
 <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=ffffff&color=161B22"/>
 </p>
 
+<br><br>
+
+<div align="center">
+
+<p>
+  <span style="color:#ff4db8;">━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span>
+  <img src="https://api.iconify.design/lucide:orbit.svg?color=%23ff4db8" width="22"/>
+  <span style="color:#8b5cf6;">━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span>
+</p>
+
+</div>
+
 <!--Cytat-->
-<div align="left">
+<div align="center">
 
 <tr>
 <td width="800">
@@ -79,6 +91,16 @@ First, solve the problem. Then, write the code.
 
 </td>
 </tr>
+
+</div>
+
+<div align="center">
+
+<p>
+  <span style="color:#ff4db8;">━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span>
+  <img src="https://api.iconify.design/lucide:orbit.svg?color=%23ff4db8" width="22"/>
+  <span style="color:#8b5cf6;">━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span>
+</p>
 
 </div>
 
