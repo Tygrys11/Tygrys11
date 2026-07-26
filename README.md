@@ -51,11 +51,3 @@
 <a href="https://github.com/Tygrys11"><img align="left" width="300" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tygrys11&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" /></a>
 
 </div>
-
-<div align="center">
-
-### 💜 Let's build something amazing together!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF4DA6,7A5CFF&height=120&section=footer"/>
-
-</div>
