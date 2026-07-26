@@ -33,6 +33,26 @@
 <br>
 <!-- =-=-=-=-=-=-= -->
 
+
+<div align="center">
+
+
+<p>
+I'm Lira, 19 years old ✨
+</p>
+
+<p>
+Creating modern digital experiences through code.<br>
+Focused on Frontend Development and UI/UX Design.<br>
+Always learning new technologies and improving my skills.
+</p>
+
+<p>
+🌙 Learning • Designing • Creating
+</p>
+
+</div>
+<br><br>
 <!-- =-=-=-=-=-=-= -->
 
 <h2 align="center">
