@@ -12,6 +12,10 @@
 
 </div>
 
+<!-- =-=-=-=-=-=-= -->
+
+<!-- =-=-=-=-=-=-= -->
+
 <h2 align="center">
   <img src="https://api.iconify.design/lucide:code-xml.svg?color=%23D946EF" width="25" />
   Tech Stack
