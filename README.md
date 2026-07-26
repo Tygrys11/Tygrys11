@@ -111,7 +111,12 @@
 </p>
 
 <br><br>
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=rect&height=8&color=0:ff4db8,50:8b5cf6,100:ff4db8&section=header&reversal=true"/>
+
+</div> 
+<br>
 <div align="center">
 
 <p>
