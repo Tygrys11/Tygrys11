@@ -1,4 +1,4 @@
-<h1 align="center">
+<!-- <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?Font=Righteous&size=35&center=true&vCenter=true&color=760000&font=Georgia&width=500&height=70&duration=6000&lines=🦉+Hi+👋,+I'm+Lira!+🦉;">
 </h1>
 
@@ -49,5 +49,165 @@
 <a href="http://www.github.com/Tygrys11"><img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=Tygrys11&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="Lira's GitHub stats" /></a>
 
 <a href="https://github.com/Tygrys11"><img align="left" width="300" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tygrys11&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" /></a>
+
+</div> -->
+
+<div align="center">
+
+# Hi 👋 I'm <span style="color:#ff5ca8">Lira</span>
+
+### 💜 Frontend Developer
+
+> *"Code is art, logic is poetry."*
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1200&color=FF4DA6&center=true&vCenter=true&width=600&lines=Frontend+Developer;UI%2FUX+Lover;Anime+%26+Cyberpunk+Fan;Always+Learning+Something+New..." />
+
+</div>
+
+---
+
+# 🌸 About me
+
+```yaml
+Name: Justyna
+Nickname: Lira
+Age: 18
+Country: Poland 🇵🇱
+
+Interests:
+  - Frontend Development
+  - UI / UX
+  - Web Animations
+  - Anime
+  - Cyberpunk
+  - Pixel Art
+
+Currently Learning:
+  - React
+  - Next.js
+  - TailwindCSS
+  - Three.js
+```
+
+---
+
+# 💜 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,git,github,mysql,php,cpp,python,vscode,figma,blender"/>
+
+</p>
+
+---
+
+# 🌱 Currently Learning
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=nextjs,tailwind,nodejs,threejs,bootstrap"/>
+
+</p>
+
+---
+
+# 🎨 Creative Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=photoshop,pr,blender,figma"/>
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Tygrys11&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tygrys11&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Tygrys11&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tygrys11&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Tygrys11/Tygrys11/output/github-contribution-grid-snake-dark.svg">
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description |
+|----------|-------------|
+| 🌸 Portfolio | Personal website |
+| ☁️ Weather App | Weather API |
+| 🎮 Anime Explorer | Jikan API |
+| ✅ ToDo App | React + TypeScript |
+
+---
+
+# 🎵 Spotify
+
+<p align="center">
+
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default"/>
+
+</p>
+
+---
+
+# 🌸 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Tygrys11&style=for-the-badge&color=ff69b4"/>
+
+</p>
+
+---
+
+# 🏆 Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Tygrys11&theme=tokyonight&no-frame=true&column=4"/>
+
+</p>
+
+---
+
+<div align="center">
+
+### 💜 Let's build something amazing together!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF4DA6,7A5CFF&height=120&section=footer"/>
 
 </div>
