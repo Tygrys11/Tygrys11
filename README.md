@@ -22,7 +22,7 @@
 <img src="https://img.shields.io/github/followers/Tygrys11?style=for-the-badge&logo=github&logoColor=D946EF&label=Followers&labelColor=black&color=D946EF" width="250"/>
 </a>
 </div>
-
+<br>
 <div align="center">
 
 <span style="color:#ff4db8;">✦</span>
@@ -33,27 +33,34 @@
 <br>
 <!-- =-=-=-=-=-=-= -->
 
-
 <div align="center">
 
-
 <p>
-I'm Lira, 19 years old ✨
+𝙄'𝙢 𝙇𝙞𝙧𝙖, 𝟭𝟵 𝙮𝙚𝙖𝙧𝙨 𝙤𝙡𝙙 ✨
 </p>
 
 <p>
-Creating modern digital experiences through code.<br>
-Focused on Frontend Development and UI/UX Design.<br>
-Always learning new technologies and improving my skills.
+𝘾𝙧𝙚𝙖𝙩𝙞𝙣𝙜 𝙢𝙤𝙙𝙚𝙧𝙣 𝙙𝙞𝙜𝙞𝙩𝙖𝙡 𝙚𝙭𝙥𝙚𝙧𝙞𝙚𝙣𝙘𝙚𝙨 𝙩𝙝𝙧𝙤𝙪𝙜𝙝 𝙘𝙤𝙙𝙚.<br>
+𝙁𝙤𝙘𝙪𝙨𝙚𝙙 𝙤𝙣 𝙁𝙧𝙤𝙣𝙩𝙚𝙣𝙙 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙢𝙚𝙣𝙩 𝙖𝙣𝙙 𝙐𝙄/𝙐𝙓 𝘿𝙚𝙨𝙞𝙜𝙣.<br>
+𝘼𝙡𝙬𝙖𝙮𝙨 𝙡𝙚𝙖𝙧𝙣𝙞𝙣𝙜 𝙣𝙚𝙬 𝙩𝙚𝙘𝙝𝙣𝙤𝙡𝙤𝙜𝙞𝙚𝙨 𝙖𝙣𝙙 𝙞𝙢𝙥𝙧𝙤𝙫𝙞𝙣𝙜 𝙢𝙮 𝙨𝙠𝙞𝙡𝙡𝙨.
 </p>
 
 <p>
-🌙 Learning • Designing • Creating
+🌙 𝙇𝙚𝙖𝙧𝙣𝙞𝙣𝙜 • 𝘿𝙚𝙨𝙞𝙜𝙣𝙞𝙣𝙜 • 𝘾𝙧𝙚𝙖𝙩𝙞𝙣𝙜
 </p>
 
 </div>
-<br><br>
+<br>
 <!-- =-=-=-=-=-=-= -->
+<div align="center">
+
+<span style="color:#ff4db8;">✦</span>
+<span style="color:#ff4db8;">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span>
+<span style="color:#ff4db8;">✦</span>
+
+</div>
+
+<br><br>
 
 <h2 align="center">
   <img src="https://api.iconify.design/lucide:code-xml.svg?color=%23D946EF" width="25" />
