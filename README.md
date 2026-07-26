@@ -79,7 +79,7 @@
 
 </p>
 
-<br><br>
+<br>
 
 <h2 align="center">
   <img src="https://api.iconify.design/lucide:palette.svg?color=%23D946EF" width="25" />
@@ -94,7 +94,7 @@
 
 </p>
 
-<br><br>
+<br>
 
 <h2 align="center">
   <img src="https://api.iconify.design/lucide:cog.svg?color=%23D946EF" width="25" />
@@ -110,7 +110,7 @@
 
 </p>
 
-<br><br>
+<br>
 
 <h2 align="center">
   <img src="https://api.iconify.design/lucide:brain.svg?color=%23D946EF" width="25"/>
@@ -126,7 +126,7 @@ Future skills loading...
 </h3>
 
 
-<br><br>
+<br><br><br>
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=8&color=0:ff4db8,50:8b5cf6,100:ff4db8&section=header&reversal=true"/>
