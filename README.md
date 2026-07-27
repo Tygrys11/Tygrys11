@@ -126,6 +126,8 @@ Future skills loading...
 </h3>
 <br><br>
 
+<hr>
+
 <p align="center">
   <img
     src="https://github-stats-extended.vercel.app/api?username=Tygrys11&rank_icon=github&custom_title=%E2%9C%A6%20Lira%20%E2%9C%A6&show_icons=true&include_all_commits=true&theme=jolly"
@@ -138,6 +140,8 @@ Future skills loading...
     hspace="10"
   />
 </p>
+
+<hr>
 
 <!--[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Tygrys11&rank_icon=github&custom_title=%E2%9C%A6%20Lira%20%E2%9C%A6&show_icons=true&include_all_commits=true&theme=jolly)](https://github-stats-extended.vercel.app/api?username=Tygrys11&rank_icon=github&custom_title=%E2%9C%A6%20Lira%20%E2%9C%A6&show_icons=true&include_all_commits=true&theme=jolly)
 
