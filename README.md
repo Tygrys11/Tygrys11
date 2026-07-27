@@ -147,8 +147,6 @@ Future skills loading...
 
 <br>
 
-<hr>
-
 <!--[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Tygrys11&rank_icon=github&custom_title=%E2%9C%A6%20Lira%20%E2%9C%A6&show_icons=true&include_all_commits=true&theme=jolly)](https://github-stats-extended.vercel.app/api?username=Tygrys11&rank_icon=github&custom_title=%E2%9C%A6%20Lira%20%E2%9C%A6&show_icons=true&include_all_commits=true&theme=jolly)
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Tygrys11&langs_count=4&theme=jolly)](https://github-stats-extended.vercel.app/api/top-langs?username=Tygrys11&langs_count=4&theme=jolly)-->
