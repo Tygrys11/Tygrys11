@@ -130,12 +130,12 @@ Future skills loading...
 
 <p align="center">
   <img
-    src="https://github-stats-extended.vercel.app/api?username=Tygrys11&rank_icon=github&custom_title=%E2%9C%A6%20Lira%20%E2%9C%A6&show_icons=true&include_all_commits=true&theme=jolly&v=2"
+    src="https://github-stats-extended.vercel.app/api?username=Tygrys11&rank_icon=github&custom_title=%E2%9C%A6%20Lira%20%E2%9C%A6&show_icons=true&include_all_commits=true&theme=jolly"
     width="62%"
     hspace="10"
   />
   <img
-    src="https://github-stats-extended.vercel.app/api/top-langs?username=Tygrys11&langs_count=4&theme=jolly&v=2"
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=Tygrys11&langs_count=4&theme=jolly"
     width="31.5%"
     hspace="10"
   />
