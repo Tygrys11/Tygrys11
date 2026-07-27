@@ -126,8 +126,12 @@ Future skills loading...
 </h3>
 <br><br>
 
-<hr>
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=rect&height=8&color=0:ff4db8,50:8b5cf6,100:ff4db8&section=header&reversal=true"/>
+
+</div> 
+<br>
 <p align="center">
   <img
     src="https://github-stats-extended.vercel.app/api?username=Tygrys11&rank_icon=github&custom_title=%E2%9C%A6%20Lira%20%E2%9C%A6&show_icons=true&include_all_commits=true&theme=jolly"
@@ -141,18 +145,14 @@ Future skills loading...
   />
 </p>
 
+<br>
+
 <hr>
 
 <!--[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Tygrys11&rank_icon=github&custom_title=%E2%9C%A6%20Lira%20%E2%9C%A6&show_icons=true&include_all_commits=true&theme=jolly)](https://github-stats-extended.vercel.app/api?username=Tygrys11&rank_icon=github&custom_title=%E2%9C%A6%20Lira%20%E2%9C%A6&show_icons=true&include_all_commits=true&theme=jolly)
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Tygrys11&langs_count=4&theme=jolly)](https://github-stats-extended.vercel.app/api/top-langs?username=Tygrys11&langs_count=4&theme=jolly)-->
 
-<br><br>
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=8&color=0:ff4db8,50:8b5cf6,100:ff4db8&section=header&reversal=true"/>
-
-</div> 
 <br>
 <div align="center">
 
